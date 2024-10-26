@@ -81,6 +81,7 @@ payload:
   - DOMAIN,security.cloudflare-dns.com
   - DOMAIN,sm2.doh.pub
   - DOMAIN,unfiltered.adguard-dns.com
+  - DOMAIN,synology.com
   - IP-CIDR,1.1.1.1/32
   - IP-CIDR,101.101.101.101/32
   - IP-CIDR,12.159.2.159/32
