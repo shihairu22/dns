@@ -48,7 +48,6 @@ payload:
   - DOMAIN-SUFFIX,dmhy.best
   - DOMAIN-SUFFIX,cnlang.org
   - DOMAIN-SUFFIX,api2d.com
-  - DOMAIN-SUFFIX,shihairu.cn
   - DOMAIN-SUFFIX,pterclub.com
   - DOMAIN-SUFFIX,azusa.ru
   - DOMAIN-SUFFIX,azusa.wiki
@@ -138,7 +137,6 @@ payload:
   - DOMAIN-KEYWORD,dmhy.best
   - DOMAIN-KEYWORD,cnlang.org
   - DOMAIN-KEYWORD,api2d.com
-  - DOMAIN-KEYWORD,shihairu.cn
   - DOMAIN-KEYWORD,pterclub.com
   - DOMAIN-KEYWORD,azusa.ru
   - DOMAIN-KEYWORD,azusa.wiki
